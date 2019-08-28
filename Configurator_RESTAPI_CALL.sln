@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurator_RESTAPI_CALL", "Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL.csproj", "{BCE5AF7E-44B6-4724-A70D-47F8197F4A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfiguratorTest", "ConfiguratorTest\ConfiguratorTest.csproj", "{A8D38D9B-924A-4091-BC05-3776248B19AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE5AF7E-44B6-4724-A70D-47F8197F4A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE5AF7E-44B6-4724-A70D-47F8197F4A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE5AF7E-44B6-4724-A70D-47F8197F4A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE5AF7E-44B6-4724-A70D-47F8197F4A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D38D9B-924A-4091-BC05-3776248B19AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D38D9B-924A-4091-BC05-3776248B19AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D38D9B-924A-4091-BC05-3776248B19AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D38D9B-924A-4091-BC05-3776248B19AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8833B4E1-24B3-43B9-B99E-7719F67329AD}
+	EndGlobalSection
+EndGlobal

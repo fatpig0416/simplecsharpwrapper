@@ -1,0 +1,8 @@
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\bin\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.deps.json
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\bin\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\obj\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.csproj.CoreCompileInputs.cache
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\obj\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.AssemblyInfoInputs.cache
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\obj\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.AssemblyInfo.cs
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\bin\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.pdb
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\obj\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\Configurator_RESTAPI_CALL\obj\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.pdb

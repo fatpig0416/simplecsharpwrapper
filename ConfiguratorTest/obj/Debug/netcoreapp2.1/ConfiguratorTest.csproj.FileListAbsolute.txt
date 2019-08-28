@@ -1,0 +1,17 @@
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\ConfiguratorTest.deps.json
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\ConfiguratorTest.runtimeconfig.json
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\ConfiguratorTest.runtimeconfig.dev.json
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\ConfiguratorTest.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\ConfiguratorTest.pdb
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\bin\Debug\netcoreapp2.1\Configurator_RESTAPI_CALL.pdb
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.csprojAssemblyReference.cache
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.csproj.CoreCompileInputs.cache
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.AssemblyInfoInputs.cache
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.AssemblyInfo.cs
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.csproj.CopyComplete
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.dll
+C:\Users\fatpig\Documents\New folder\Configurator_RESTAPI_CALL\ConfiguratorTest\obj\Debug\netcoreapp2.1\ConfiguratorTest.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fatpig\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fatpig\\.nuget\\packages"
+    ]
+  }
+}
