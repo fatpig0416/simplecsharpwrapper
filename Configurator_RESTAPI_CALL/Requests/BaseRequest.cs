@@ -15,8 +15,8 @@ namespace Configurator_RESTAPI_CALL.Requests
 
         protected T Execute<T>(IRestClient client) where T : new()
         {
-            var response = client.Execute<T>(this);
             var fullUrl = client.BuildUri(this);
+            var response = client.Execute<T>(this);
             if (response.ErrorException != null)
             {
                 throw ConfiguratorRestApi.RaiseRequestErrorToException(response.StatusCode, response.ErrorException);

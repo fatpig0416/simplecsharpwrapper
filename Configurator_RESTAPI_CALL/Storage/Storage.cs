@@ -28,7 +28,7 @@ namespace Configurator_RESTAPI_CALL.Storage
             Api = api;
         }
 
-        public abstract T Get(ConfiguratorParameter parameter);
+        public abstract T Get(string url, Dictionary<string, object> parameter);
 
         public void Sync()
         {

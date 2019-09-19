@@ -6,7 +6,7 @@ namespace Configurator_RESTAPI_CALL
 {
     public class ConfiguratorRestApi
     {
-        public const string BaseUrl = "http://servtst:1502/api-rest/execute/svcapi/";
+        public const string BaseUrl = "http://servtst:152";
 
         public static Configurator Configurator(string username, string password)
         {

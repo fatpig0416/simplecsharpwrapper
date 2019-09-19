@@ -2,6 +2,7 @@
 using Configurator_RESTAPI_CALL.Requests;
 using Configurator_RESTAPI_CALL.Util;
 using System;
+using System.Collections.Generic;
 
 namespace Configurator_RESTAPI_CALL.Storage
 {
@@ -10,10 +11,10 @@ namespace Configurator_RESTAPI_CALL.Storage
         public GlobalStorage(Configurator api) : base(api)
         {
         }
-
-        public override ConfiguratorParameter Get(ConfiguratorParameter parameter)
+        
+        public override ConfiguratorParameter Get(string url, Dictionary<string, object> parameter)
         {
-            var response = new ConfiguratorRequest(parameter).Execute(Api.Client);
+            var response = new ConfiguratorRequest(url, parameter).Execute(Api.Client);
 
             ConfiguratorParameter param = new ConfiguratorParameter();
 

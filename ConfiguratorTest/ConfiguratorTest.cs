@@ -2,6 +2,7 @@ using Configurator_RESTAPI_CALL;
 using Configurator_RESTAPI_CALL.Entity;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Collections.Generic;
 
 namespace ConfiguratorTest
 {
@@ -24,7 +25,7 @@ namespace ConfiguratorTest
         [TestMethod]
         public void TestMethod1()
         {
-            ConfiguratorParameter param = new ConfiguratorParameter()
+            CallMethodParameter param = new CallMethodParameter()
             {
                 REGN = 22,
                 AREA = 1,
@@ -33,8 +34,25 @@ namespace ConfiguratorTest
                 CNTRY = "USA",
                 CUSTMOER = "7800000012"
             };
+            
+            var response = configurator._globalStorage.Get("/api-rest/execute/svcapi/callmethod", param.ToDict());
+        }
 
-            var response = configurator._globalStorage.Get(param);
+        [TestMethod]
+        public void TestMethod2()
+        {
+            LstSupplyAltParameter param = new LstSupplyAltParameter()
+            {
+                CONO = 1,
+                ORQT = 1,
+                DIVI = "010",
+                FACI = "060",
+                ORTP = "USA",
+                CUNO = "US00000072",
+                ITNO = "TB9SX4C-0",
+                DWDT = "20190918"
+            };
+            var response = configurator._lstSupplyAltStorage.Get("/m3api-rest/execute/CTZ100MI/LstSupplyAlt", param.ToDict());
         }
     }
 }
